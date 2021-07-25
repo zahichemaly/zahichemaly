@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<div>
+	<p align="center">
+		<img src="https://github.com/zahichemaly/github-stats/blob/master/generated/overview.svg">
+		<img src="https://github.com/zahichemaly/github-stats/blob/master/generated/languages.svg">
+	</p>
+</div>
+
 <!--
 **zahichemaly/zahichemaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
